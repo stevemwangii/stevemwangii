@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevemwangii
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning php js mysql
+- 👀 I’m interested in web development,cybersecurity
+- 🌱 I’m currently learning php html js mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
